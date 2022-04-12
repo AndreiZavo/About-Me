@@ -1,4 +1,4 @@
-# About-M🏻‍♂🙎🏼‍♂️
+# About-Me 🙎🏼‍♂️
 * The application:
     * A toy application that displays an user profile with various UI elements
 * The scope:
