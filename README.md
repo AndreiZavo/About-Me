@@ -1,5 +1,21 @@
 # About-Me 🙎🏼‍♂️
-* The application:
-    * A toy application that displays an user profile with various UI elements
-* The scope:
-    * Cover the basics of UI layout design
+
+The AboutMe app is a demo app that shows information about a person. 
+* Name
+* Settable Nickname
+* An image
+* Scrollable information
+
+This app demonstrates the following views and techniques:
+* LinearLayout
+* TextView
+* EditText
+* ImageView
+* ScrollView
+* Setting multiple click handlers programmatically
+* Using data binding for views to improve perforkance and eliminate findViewById
+
+## Screenshots
+
+![Screenshot1](screenshots/AboutMeScreenshots.png)
+
